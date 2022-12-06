@@ -5,6 +5,7 @@
 [Explorer](https://explorer.secardnode.com/uptick/staking)
  =
 Rpc : rpc.uptick.secardnode.com
+ =
 Api : api.uptick.secardnode.com
 =
 - **Minimum Sistem Gereksinimleri**:
