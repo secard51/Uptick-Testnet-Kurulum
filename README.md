@@ -2,7 +2,7 @@
 <p align="center">
 
 [Website](https://uptick.network/ ) \
-[EXPLORER](https://explorer.stavr.tech/uptick/staking)
+[Explorer](https://explorer.secardnode.com/uptick/staking)
 =
 - **Minimum Sistem Gereksinimleri**:
 
